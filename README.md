@@ -1,2 +1,2 @@
-# ulg22_playground
+# Playground
 
