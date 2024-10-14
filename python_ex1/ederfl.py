@@ -4,7 +4,6 @@ list2 = [11, 12, 13, 14]
 list_zip = []
 i = 0
 
-# Schleife läuft bis zur Länge der kleineren Liste (in diesem Fall list2)
 while i < len(list2):
     list_zip.append(list1[i])
     list_zip.append(list2[i])
