@@ -9,4 +9,4 @@
 | T. Kern       | [file](python_ex1/test-tk.txt)     |
 | F. Eder       | [file](python_ex1/ederfl.py)       |
 | L. Werlberger | [file](python_ex1/Werlberger.py)   |
-
+| S. Naegele  | [file](python_ex1/solutuon_ex1_naegle.py)|
