@@ -11,6 +11,7 @@
 | F. Eder       | [file](python_ex1/ederfl.py)       |
 | L. Werlberger | [file](python_ex1/Werlberger.py)   |
 | P. Schmidt    | [file](python_ex1/schmipeter.py)   |
+| IO. Peter     | [file](python_ex1/io-peter.py)     |
 <<<<<<< HEAD
 | S. Naegele  | [file](python_ex1/solutuon_ex1_naegle.py)|
 =======
