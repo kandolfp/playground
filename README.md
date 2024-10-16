@@ -14,4 +14,4 @@
 | C. Vogel      | [file](python_ex1/chrisv.py)   |
 | S. Naegele    | [file](python_ex1/solutuon_ex1_naegle.py)|
 | IO. Peter     | [file](python_ex1/io-peter.py)     |
-| L. Poell      | [file](python_ex1/exercises1_lennypoell.py)|
+| L.  Poell      | [file](python_ex1/exercises1_lennypoell.py)|
