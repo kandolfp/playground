@@ -34,3 +34,5 @@
 >>>>>>> 194b554 (doc: Readme update)
 
 >>>>>>> 283002e (doc: changes)
+| C. Vogel      | [file](python_ex1/chrisv.py)   |
+| S. Naegele    | [file](python_ex1/solutuon_ex1_naegle.py)|
