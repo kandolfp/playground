@@ -17,3 +17,4 @@
 | L. Poell      | [file](python_ex1/exercises1_lennypoell.py)|
 | M. Degiampietro | [file](python_ex1/degiampietro.py) |
 | A. Brotsmann  | [file](python_ex1/1_2_Ex_TonyMCI.py) |
+| S. Ferge      | [file](python_ex1/ferge1.py)       |
